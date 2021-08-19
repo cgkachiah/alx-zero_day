@@ -1,2 +1,2 @@
-# Here we go again
-## Another Project using git and github
+# Project Hotfix
+## This project is awesome
